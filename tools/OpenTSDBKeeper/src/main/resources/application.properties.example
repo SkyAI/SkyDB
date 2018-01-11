@@ -1,0 +1,14 @@
+server.port=8989
+opentsdb.url=
+spring.mail.host=smtp.163.com
+spring.mail.username=
+spring.mail.password=
+spring.mail.properties.mail.smtp.auth=true
+spring.mail.properties.mail.smtp.starttls.enable=true
+spring.mail.properties.mail.smtp.starttls.required=true
+# for multiple receivers, you can divide them by comma
+mail.receiver=
+mail.enabled=false
+
+logging.file=log
+logging.path=
