@@ -37,6 +37,8 @@ java -jar OpenTSDBKeeper-1.0.0-RELEASE.jar
 ## Roadmap
 - restart OpenTSDB when detecting it dead
 - make the analysis for OpenTSDB State better
+- regist OpenTSDB process to Zookeeper and use Zookeeper as cordinator
+- persist the loss data to disk or database where connection is not stable
 
 ## Any Question?
 Please mail to chenhao.ni@sky-data.cn or chenhaonee@outlook.com.
