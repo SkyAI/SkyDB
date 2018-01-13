@@ -39,5 +39,4 @@ java -jar OpenTSDBKeeper-1.0.0-RELEASE.jar
 - make the analysis for OpenTSDB State better
 
 ## Any Question?
-Please mail to chenhao.ni@sky-data.cn .
-Please mail to chenhaonee@outlook.com.
+Please mail to chenhao.ni@sky-data.cn or chenhaonee@outlook.com.
